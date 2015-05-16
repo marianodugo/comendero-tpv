@@ -1,0 +1,1 @@
+Este proyecto cosnsta de dos partes android comandas y servidor comandero
